@@ -1,24 +1,21 @@
-# **Pet Shop** :dog: :cat: 
-A mini database management system ,which helps the small scale petshop owner to keep track the available pet and it's products along with the sales details of his shop.
+# **PawSential Hub** :dog: :cat: 
+A lightweight database management system designed for small-scale pet shop owners to efficiently track available pets, manage product inventory, and monitor sales activity in real-time.
 
 # Objectives :muscle:
-* To provide web based interface to a petshop owner to manage his petshop activities.
+* To develop a web-based interface tailored for pet shop owners, enabling efficient management of all shop-related activities.
 
-* To provide an option for storing and managing the basic information about pets and pet products in the shop.
+* To offer a comprehensive solution for storing and managing essential information about pets and pet products within the shop.
 
-* To provide an option for storing and managing the sales details of the shop.
+* To facilitate the recording and management of the shop's sales transactions, ensuring accurate and streamlined sales tracking.
 
-* To provide an option for storing and managing the basic information about the customer.
+* To provide a structured system for maintaining detailed customer profiles, including contact information and purchase history.
 
-* To track the information about sold pets and products to a customer.
+* To monitor and track the sales of pets and products, linking each transaction to the respective customer for effective post-sale service and support.
 
 # Developed with 
 
  **HTML**  **CSS**   **PHP**   **MYSQL**
 
-# Description :pencil:
-
-Full report <a href="./report/Full report.pdf">view </a>
 
 ## Screenshots :wink:
 * Login page
@@ -53,18 +50,5 @@ Full report <a href="./report/Full report.pdf">view </a>
   
   <img src="./report/addanimals.PNG" alt="drawing" width="auto"/>
 
-
-# How to Run ?
- 
- 1. Download the project
-
- 2. create a new database called "petshop_management" in    MySQL and import petshop_management.sql 
-
- 3. change the user and password for db connection  in every php file with respect to the server you are using
-
- 4. login page : Username ="abcd" 
-                 password =123
-    
-     
-Thank you  :smiley:   
+   
 # PawSential-Hub
