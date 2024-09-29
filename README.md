@@ -20,35 +20,35 @@ A lightweight database management system designed for small-scale pet shop owner
 ## Screenshots :wink:
 * Login page
 
-   <img src="./report/login.PNG" alt="drawing" width="auto"/>
+   <img src="./Assets/login.PNG" alt="drawing" width="auto"/>
 
 * Home page
   
-  <img src="./report/home.PNG" alt="drawing" width="auto"/>
+  <img src="./Assets/home.PNG" alt="drawing" width="auto"/>
 
 * Animals page
    
-   <img src="./report/animals.PNG" alt="drawing" width="auto"/>
+   <img src="./Assets/animals.PNG" alt="drawing" width="auto"/>
 
 * Birds page
 
-  <img src="./report/birds.PNG" alt="drawing" width="auto"/>
+  <img src="./Assets/birds.PNG" alt="drawing" width="auto"/>
 
 * Pet Products page
 
-  <img src="./report/products.PNG" alt="drawing" width="auto"/>
+  <img src="./Assets/products.PNG" alt="drawing" width="auto"/>
 
 * Sales details page 
 
-  <img src="./report/sales.PNG" alt="drawing" width="auto"/>
+  <img src="./Assets/sales.PNG" alt="drawing" width="auto"/>
 
 * Customer page
 
-  <img src="./report/customer.PNG" alt="drawing" width="auto"/>
+  <img src="./Assets/customer.PNG" alt="drawing" width="auto"/>
 
 * Add new Animal
   
-  <img src="./report/addanimals.PNG" alt="drawing" width="auto"/>
+  <img src="./Assets/addanimals.PNG" alt="drawing" width="auto"/>
 
    
 # PawSential-Hub
